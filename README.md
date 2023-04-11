@@ -8,7 +8,7 @@ Since underwater and aerial domains are very different, both domains are evaluat
 
 [![](http://img.youtube.com/vi/PQ0AdWVHX-k/0.jpg)](http://www.youtube.com/watch?v=PQ0AdWVHX-k)
 
-> Pérez-Grau, F. J., León, P., & Viguria, A. (2023). Lowering the Entry Barrier to Aerial Robotics Competitions. International Conference on Unmanned Aircraft Systems (ICUAS). **_UNDER REVISION_**
+> Pérez-Grau, F. J., León, P., & Viguria, A. (2023). Lowering the Entry Barrier to Aerial Robotics Competitions. International Conference on Unmanned Aircraft Systems (ICUAS). **_ACCEPTED FOR PUBLICATION_**
 
 This repository links with the data from the aforementioned publication. The datasets of the proposed benchmarks are available for download, together with instructions on how to participate in the competition, and how to work with the Docker image that is also provided. For convenience, the Docker image also contains the dataset folders.
 
@@ -19,7 +19,7 @@ Datasets: [Google Drive](https://drive.google.com/drive/folders/1lcAlYWKLV-MxCG6
 If you use this data for any academic work, please cite our original paper: TBD
 
 ```bibtex
-UNDER REVISION
+COMING SOON
 ```
 
 # Funding
