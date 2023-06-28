@@ -16,10 +16,18 @@ Datasets: [Google Drive](https://drive.google.com/drive/folders/1lcAlYWKLV-MxCG6
 
 # Citation
 
-If you use this data for any academic work, please cite our original paper: TBD
+If you use this data for any academic work, please cite our original paper: https://ieeexplore.ieee.org/document/10156284
 
 ```bibtex
-COMING SOON
+@INPROCEEDINGS{10156284,
+  author={Pérez-Grau, Francisco J. and Barriga, Pablo León and Viguria, Antidio},
+  booktitle={2023 International Conference on Unmanned Aircraft Systems (ICUAS)}, 
+  title={Lowering the Entry Barrier to Aerial Robotics Competitions}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={487-492},
+  doi={10.1109/ICUAS57906.2023.10156284}}
 ```
 
 # Funding
